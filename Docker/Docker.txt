@@ -1,0 +1,4 @@
+1. Docker é uma solução para evitar ter toda uma aplicação rodando em um único lugar
+2. Docker é parecido com uma máquina virtual, mas é pré-configurado
+3. Docker pode ser combinando com Kubernetes para profissionalizar seu uso
+4. Uma alternativa para Docker é AWS, que tem um custo que pode ser maior
