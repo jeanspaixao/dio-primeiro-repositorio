@@ -1,7 +1,7 @@
 # dio-primeiro-repositorio
 DIO Bootcamp Linux do Zero - Desafio de projeto
 
-##Objetivo
+## Objetivo
 
 Esse repositório é um desafio de projeto da DIO para a realização da construção de um repositório no GitHub.
 
